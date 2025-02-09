@@ -33,7 +33,7 @@ print(tuple3[1])
 print(tuple3[1][0])
 ```
 
-## Opeardores
+## Operadores
 ### Concatenar
 Concatena (pega) dos cadenas. Se utiliza el simbolo *+*.
 
@@ -91,7 +91,7 @@ text = ("cien", "a~nos", "de", "soledad")
 if "a~nos" in text:
 print("Si está en la tupla")
 else:
-print("No está en la tupla"
+print("No está en la tupla")
 ```
 
 Al igual que una lista, una tupla se puede convertir en un iterable utilizando el bucle *for* y el operador *in*.
